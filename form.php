@@ -9,12 +9,10 @@
             Age:
             <input type="number" age="age"><br>
             Designation:
-            <input type="text" designation="designation"><br>
             <input type="radio" designation="designation"> Junior Programmar
             <input type="radio" designation="designation"> Senior Programmar
             <input type="radio" designation="designation"> Project Lead <br>
             Preferred Language:
-            <input type="text" language="language"><br>
             <input type="radio" language="language"> Java
             <input type="radio" language="language"> PHP
             <input type="radio" language="language"> C++ <br>
